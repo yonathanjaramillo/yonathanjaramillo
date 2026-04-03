@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-<br>👯 Full-Stack Software Engineer & AWS Cloud Architect focused on building scalable web applications and serverless systems.<br><br>I develop full-stack solutions using JavaScript and modern technologies, and design cloud architectures on AWS (Lambda, API Gateway, DynamoDB) with a focus on performance, security, and reliability.<br><br>Driven by discipline from a competitive baseball background, I thrive in high-performance environments and deliver results that scale.
+<br> Full-Stack Software Engineer & AWS Cloud Architect focused on building scalable web applications and serverless systems.<br><br>I develop full-stack solutions using JavaScript and modern technologies, and design cloud architectures on AWS (Lambda, API Gateway, DynamoDB) with a focus on performance, security, and reliability.<br><br>Driven by discipline from a competitive baseball background, I thrive in high-performance environments and deliver results that scale.
 
 
 ## 🌐 Socials:
