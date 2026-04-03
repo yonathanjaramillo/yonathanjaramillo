@@ -1,15 +1,111 @@
-# 💫 About Me:
-Full-Stack Software Engineer & AWS Cloud Architect focused on building scalable web applications and serverless systems.<br><br>I develop full-stack solutions using JavaScript and modern technologies, and design cloud architectures on AWS (Lambda, API Gateway, DynamoDB) with a focus on performance, security, and reliability.<br><br>Driven by discipline from a competitive baseball background, I thrive in high-performance environments and deliver results that scale.
+
+## Hi there! 👋
+
+I'm **Yonathan Jaramillo** — a Full-Stack Software Engineer & AWS Cloud Architect focused on building scalable web applications and serverless systems. 🚀
+
+Tagline: Building fast, maintainable web experiences and reliable serverless infrastructure.
+
+## About Me
 
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yonathan_jaramillo) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/yonathan-jaramillo/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/YONATHANMLB) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@yonathan_jaramillo) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yonathanmlb@hotmail.com) 
+- 👤 Name: **Yonathan Jaramillo**
+- 💼 Role: Full-Stack Software Engineer & AWS Cloud Architect
+- 📍 Location: United States
+- 🧭 Bio (short): Full-Stack Software Engineer & AWS Cloud Architect focused on building scalable web applications and serverless systems.
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=YONATHANJARAMILLO&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=YONATHANJARAMILLO&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YONATHANJARAMILLO&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+I build end-to-end solutions — from responsive front-ends to REST APIs and cloud infrastructure. My recent work centers on an AWS-powered portfolio and several web projects (APIs, landing pages, and small web apps).
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## Skills & Technologies
+
+aws,js,nodejs,express,html,css,git,github,githubactions,npm,react
+
+## Top Projects
+
+## Top Projects
+
+1. [AWS-Portafolio](https://github.com/yonathanjaramillo/AWS-Portafolio)
+   - 🔧 Description: AWS portafolio — showcase of projects and AWS-focused deployments.
+   - ⭐ Stars: 0 • 🍴 Forks: 0 • 🛠 Primary: Infrastructure / AWS (repository language: N/A)
+   - 📈 Notes: Active development (recent pushes to main).
+
+2. [codewars-solutions](https://github.com/yonathanjaramillo/codewars-solutions)
+   - 🔧 Description: Codewars solutions and coding practice exercises.
+   - ⭐ Stars: 0 • 🍴 Forks: 0 • 🛠 Primary: JavaScript
+
+3. [baseball-player-api](https://github.com/yonathanjaramillo/baseball-player-api)
+   - 🔧 Description: REST API built with Node.js and Express to simulate baseball player data and scouting reports.
+   - ⭐ Stars: 0 • 🍴 Forks: 0 • 🛠 Primary: JavaScript (Express)
+
+4. [Joke-Generator-app](https://github.com/yonathanjaramillo/Joke-Generator-app)
+   - 🔧 Description: Joke generator (simple web app).
+   - ⭐ Stars: 0 • 🍴 Forks: 0 • 🛠 Primary: HTML
+
+5. [Dog-Image-Generator](https://github.com/yonathanjaramillo/Dog-Image-Generator)
+   - 🔧 Description: Web app that fetches and displays random dog images using a public API.
+   - ⭐ Stars: 0 • 🍴 Forks: 0 • 🛠 Primary: CSS
+
+(Notes: Projects are sourced from the user's repositories and recent activity. Stars/forks reflect current repository metadata.)
+
+## GitHub Stats
+
+## GitHub Stats 📊
+
+- Public repos: **18**
+- Followers: **0**
+- Following: **0**
+
+Badges & stats:
+
+- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=yonathanjaramillo&show_icons=true&theme=default)
+- ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yonathanjaramillo&layout=compact&theme=default)
+- [![Repositories](https://img.shields.io/badge/repositories-18-blue)](https://github.com/yonathanjaramillo?tab=repositories)
+- [![Followers](https://img.shields.io/badge/followers-0-lightgrey)](https://github.com/yonathanjaramillo?tab=followers)
+
+(These badges are dynamically generated and provide a quick overview of activity and language usage.)
+
+## Recent Activity
+
+## Recent Activity 🛠️
+
+Here are the latest GitHub events (most recent first):
+
+- Push to `main` — repo: [AWS-Portafolio](https://github.com/yonathanjaramillo/AWS-Portafolio) • 2026-04-03T19:21:35Z
+- Push to `main` — repo: [AWS-Portafolio](https://github.com/yonathanjaramillo/AWS-Portafolio) • 2026-04-03T19:21:07Z
+- Push to `main` — repo: [AWS-Portafolio](https://github.com/yonathanjaramillo/AWS-Portafolio) • 2026-04-03T19:19:42Z
+- Push to `main` — repo: [AWS-Portafolio](https://github.com/yonathanjaramillo/AWS-Portafolio) • 2026-04-03T19:19:10Z
+- Push to `main` — repo: [AWS-Portafolio](https://github.com/yonathanjaramillo/AWS-Portafolio) • 2026-04-03T19:17:22Z
+- Created branch `main` — repo: [AWS-Portafolio](https://github.com/yonathanjaramillo/AWS-Portafolio) • 2026-04-03T19:04:53Z
+- Push to `main` — repo: [codewars-solutions](https://github.com/yonathanjaramillo/codewars-solutions) • 2026-04-02T23:47:25Z
+- Push to `main` — repo: [codewars-solutions](https://github.com/yonathanjaramillo/codewars-solutions) • 2026-04-02T23:45:40Z
+- Push to `main` — repo: [codewars-solutions](https://github.com/yonathanjaramillo/codewars-solutions) • 2026-04-02T23:43:03Z
+- Push to `main` — repo: [codewars-solutions](https://github.com/yonathanjaramillo/codewars-solutions) • 2026-04-02T23:39:49Z
+
+(Recent activity shows active development on the AWS portfolio and ongoing practice with coding challenges.)
+
+## Latest Blog Posts
+
+## Latest Blog Posts 📝
+
+No personal blog posts were found in the provided profile data.
+
+If you publish articles or have a blog, share the link and I can include recent posts here. Meanwhile, you can check my LinkedIn for professional updates:
+
+- LinkedIn: https://www.linkedin.com/in/yonathan-jaramillo
+
+## Connect with Me
+
+## Connect with Me 🔗
+
+- 🐙 GitHub: [yonathanjaramillo](https://github.com/yonathanjaramillo)
+- 💼 LinkedIn: [Yonathan Jaramillo](https://www.linkedin.com/in/yonathan-jaramillo)
+- 📷 Instagram: [@yonathan_jaramillo](https://www.instagram.com/yonathan_jaramillo/)
+
+Badges:
+
+- ![GitHub](https://img.shields.io/badge/GitHub-@yonathanjaramillo-181717?logo=github&logoColor=white)
+- ![LinkedIn](https://img.shields.io/badge/LinkedIn-Yonathan%20Jaramillo-0A66C2?logo=linkedin&logoColor=white)
+- ![Instagram](https://img.shields.io/badge/Instagram-@yonathan__jaramillo-E4405F?logo=instagram&logoColor=white)
+
+Currently working on: **AWS-Portafolio** — building a serverless portfolio and polishing cloud deployments. 🌩️
+
+Want to collaborate or hire? Reach out via LinkedIn for the quickest response.
