@@ -1,5 +1,6 @@
 # 💫 About Me:
-AWS-certified cloud architect and full-stack engineer focused on building scalable, reliable systems and modern cloud applications. I work across AWS, backend development, and AI/ML integration to deliver solutions that perform in real-world environments.<br><br>Shaped by a competitive baseball career, I operate with discipline, resilience, and a high-performance mindset—bringing consistency, focus, and execution to every project I take on.
+AWS Certified Solutions Architect and full-stack engineer specializing in scalable cloud-native applications and AI-powered solutions. Experienced in AWS, Amazon Bedrock, Retrieval-Augmented Generation (RAG), AI agents, backend development, and serverless architectures, with a passion for building reliable, production-ready systems. Shaped by a competitive baseball career, I bring discipline, resilience, and a high-performance mindset to every project I take on.
+
 
 
 ## 🌐 Socials:
